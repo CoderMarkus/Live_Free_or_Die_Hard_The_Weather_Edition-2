@@ -1,0 +1,19 @@
+form{
+    display: flex;
+    flex-direction:column;
+    gap: 1rem;
+
+    width: fit-content;
+}
+
+h1{
+    margin: 0px;
+}
+
+.form-container-1{
+    flex-direction: row;
+}
+
+.form-container-2{
+    flex-direction: row;
+}
