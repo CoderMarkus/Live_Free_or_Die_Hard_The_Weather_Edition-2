@@ -10,6 +10,11 @@ h1{
     margin: 0px;
 }
 
+button{
+    width: fit-content;
+    align-self: center;
+}
+
 .form-container-1{
     flex-direction: row;
 }
