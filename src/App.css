@@ -2,4 +2,7 @@
   width: 100vw;
   text-align: center;
 }
-
+body {
+  display: flex;
+  justify-content: center;
+}
